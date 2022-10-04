@@ -28,6 +28,9 @@ int main() {
 
 	Generator gena("D:\\C++\\Git\\Generator\\x64\\Debug\\text.txt");//("C:\\Users\\Dima$\\source\\repos\\gen\\x64\\Debug\\text.txt");
 	gena.clear();
+	gena.probab();
+	gena.generate();
+
 	//gena.preProcessor();
 
 	/*std::string str{"0.00066676767677767675"};
@@ -39,7 +42,9 @@ int main() {
 	std::cout << res;*/
 	//std::cout << sz;
 
-
+	//ToDo: Ввод параметров 2,3,4 
+	//		Вероятности в double
+	//		Сам ГЕНЕРАТОР!
 
 	return 0;
 }

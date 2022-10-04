@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 
+
 class Generator
 {
 public:
@@ -19,6 +20,7 @@ public:
 
 	void clear();
 
+	void probab();
 
 	void preProcessor();
 
