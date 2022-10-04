@@ -120,6 +120,9 @@ void Generator::clear()
 		}
 	}
 
+
+
+
 	// add 0 before the value
 	// add 0 after the value
 

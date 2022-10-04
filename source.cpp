@@ -26,7 +26,7 @@
 int main() {
 
 
-	Generator gena("C:\\Users\\Dima$\\source\\repos\\gen\\x64\\Debug\\text.txt");
+	Generator gena("D:\\C++\\Git\\Generator\\x64\\Debug\\text.txt");//("C:\\Users\\Dima$\\source\\repos\\gen\\x64\\Debug\\text.txt");
 	gena.clear();
 	//gena.preProcessor();
 
